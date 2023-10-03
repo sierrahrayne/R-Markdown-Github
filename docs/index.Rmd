@@ -1,5 +1,5 @@
 ---
-title: "R Markdown HTML Page"
+title: "RMD HTML"
 author: "Sierrah Mueller"
 date: "2023-10-03"
 output: html_document
